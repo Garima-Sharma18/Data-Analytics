@@ -1,1 +1,3 @@
-Created an Excel dashboard to visualise sales trends, highlight top retailers, and identify areas for improvement, helping drive smarter retail strategies and enhance product performance.
+Developed an interactive Excel dashboard to analyse Adidas sales data with a focus on strategic retail insights. 
+The dashboard visualises key sales trends, highlights top-performing retailers, and pinpoints underperforming areas. 
+This analysis provides actionable recommendations for improving product performance and refining sales strategies, empowering data-driven decision-making for retail optimization.
